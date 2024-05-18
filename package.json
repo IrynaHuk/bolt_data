@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boltdata/bolt_data.git"
+    "url": "git+https://github.com/IrynaHuk/bolt_data.git"
   },
   "keywords": [],
   "author": "",
@@ -19,5 +19,5 @@
     "json-serve": "^0.1.0",
     "json-server": "^1.0.0-beta.0"
   },
-  "homepage": "https://github.com/boltdata/bolt_data#readme"
+  "homepage": "https://github.com/IrynaHuk/bolt_data.git#readme"
 }
