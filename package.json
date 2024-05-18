@@ -16,8 +16,10 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-beta.0"
+    "json-serve": "^0.1.0"
   },
-  "homepage": "https://github.com/IrynaHuk/bolt_data.git#readme"
+  "homepage": "https://github.com/IrynaHuk/bolt_data.git#readme",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
 }
